@@ -1,6 +1,6 @@
 [package]
 name = "gvko-minigrep"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "Small lib made just for practicing purposes of the Rust lang"
